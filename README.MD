@@ -5,7 +5,7 @@ This repository contains the code and resources for our project titled: "Machine
 This work is based on the paper:
 
 "Machine learning-based glucose prediction with use of continuous glucose and physical activity monitoring data: The Maastricht Study"  
-Published in PLoS One. 2021; 16(1): e0245157.  
+Published in PLoS One. 2021 Jun 24;16(6):e0253125.
 [DOI: 10.1371/journal.pone.0253125](https://doi.org/10.1371/journal.pone.0253125)
 
 ## Repository Structure
